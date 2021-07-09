@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Git kjbfibcviñsbvi 
+=======
+Git Git Git 
+>>>>>>> 26a915545d06a0740
