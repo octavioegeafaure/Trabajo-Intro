@@ -1,0 +1,89 @@
+/*header*/
+
+.header{
+    margin: 0px;
+}
+
+.barra-header {
+    background-color: rgb(229,229,229);
+    height: 180px;
+}
+
+.logo-batman{
+    text-align: center;
+    line-height: 310px;
+}
+
+/*main*/
+h1{
+    background-color: rgb(196, 196, 196);
+    color: rgb(0, 86, 119);
+    letter-spacing: 10px;
+    line-height: 50px;
+    margin: 0px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.subTitulos{
+    margin: 100px 220px 100px;
+}
+
+h2{
+    background-color: rgb(196, 196, 196);
+    color: rgb(0, 86, 119);
+    font-size: 22px;
+    height: 30px;
+    line-height: 30px;
+    letter-spacing: 7px;
+    text-indent: 12px;
+    text-transform: uppercase;
+}
+
+.datos-personales{
+    margin: 10px 0px 10px 20px;
+}
+
+.datos{
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+dd{
+    text-indent: 40px;
+}
+.formacion-experiencia{
+    font-weight: bold;
+}
+
+/*footer*/
+.barra-footer{
+    background-color: rgb(0, 86, 119);
+    height: 40px;
+    margin: 1px 0px;
+}
+
+.telefono-batman{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 40px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.logos-de-redes{
+    margin: 0px 20px;
+    word-spacing: 20px;
+}
+
+.logo-instagram{
+    width: 20px;
+    height: 20px;
+}
+
+.logo-linkedin{
+    width: 20px;
+    height: 20px;
+}
